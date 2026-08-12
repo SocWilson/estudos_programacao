@@ -21,10 +21,9 @@ Conforme os estudos avançam, este repositório será organizado em pastas por c
 /alura
 /oracle-one-ai
 
-🌱 Sobre mim
+Sobre mim:
 
 Sociólogo em expansão de carreira para tecnologia, interessado em como dados, programação e IA podem dialogar com ciências sociais.
 
-📌 Status
-
-🚧 Em construção — repositório ativo, atualizado conforme avanço nos estudos.
+Status:
+Em construção — repositório ativo, atualizado conforme avanço nos estudos.
